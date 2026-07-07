@@ -1,0 +1,24 @@
+{
+  "input": "C:\\Projects\\almandoub\\data\\external\\bitext_customer_support_12000.jsonl",
+  "records": 12000,
+  "repeat": 3,
+  "processed": 36000,
+  "accuracy": 0.9984166666666666,
+  "correct": 35943,
+  "escalations": 3849,
+  "errors": 0,
+  "latency_ms": {
+    "mean": 0.11407718620466767,
+    "p99": 0.2238999877590686,
+    "max": 0.8583999879192561
+  },
+  "memory_mb": {
+    "current": 1.208993,
+    "peak": 1.211218
+  },
+  "elapsed_seconds": 4.172645900020143,
+  "collapse_check": {
+    "passed": true,
+    "criteria": "errors == 0"
+  }
+}
